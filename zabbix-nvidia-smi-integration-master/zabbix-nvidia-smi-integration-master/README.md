@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # zabbix-nvidia-smi-integration
 
 
@@ -27,3 +28,6 @@ The following code was developed from https://gist.github.com/bhcopeland/b54d3c6
 Alongside the template monitorgraphics.sh is an alternative monitoring script that outputs nvidia-smi information to disk. This is not needed for the Zabbix template but it remains useful for monitoring NVidia GPUs.
 
 It is possible to use this Zabbix template within a Docker container, please see the following [repository](https://github.com/wangmuy/zabbix-agent-nvidia) for how this can be accomplished.
+=======
+devops branhc
+>>>>>>> devops
